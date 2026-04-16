@@ -1,16 +1,12 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        ░▒▓ THE TWISTED WIZARD HAS ENTERED THE REALM ▓▒░     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<!-- Animated Wave Header Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:4a0080,100:6f00ff&height=220&section=header&text=TwsitedWizard&fontSize=60&fontColor=d4b3ff&fontAlignY=38&desc=IAM%20%7C%20Cybersecurity%20%7C%20Full-Stack%20Dev&descAlignY=58&descColor=9d6fff&animation=fadeIn)
 
-# 🧙‍♂️ Saran Shabu · `TwsitedWizard`
+<!-- Animated Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D6FFF&center=true&vCenter=true&width=600&lines=🧙‍♂️+The+Twisted+Wizard+has+entered+the+realm...;Identity+is+a+spell+I+know+how+to+cast.;Zero+Trust+is+not+paranoia+—+it's+wisdom.;Not+all+who+wander+through+systems+are+lost.;Currently+seeking+%3A+IAM+%26+Cybersecurity+Roles)](https://git.io/typing-svg)
 
-*"Not all who wander through systems are lost — some are mapping them."*
+---
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-persona--v--saran.vercel.app-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://persona-v-saran.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saran-shabu-b55980227)
@@ -24,11 +20,11 @@
 
 ```python
 wizard = {
-    "name"        : "Saran Shabu",
-    "alias"       : "TwsitedWizard",
-    "status"      : "Fresher — Open to Opportunities 🔓",
-    "domain"      : ["IAM & Cybersecurity", "Full-Stack Dev"],
-    "philosophy"  : "Every system has a backdoor. I find it before the bad guys do.",
+    "name"         : "Saran Shabu",
+    "alias"        : "TwsitedWizard",
+    "status"       : "Fresher — Open to Opportunities 🔓",
+    "domain"       : ["IAM & Cybersecurity", "Full-Stack Dev"],
+    "philosophy"   : "Every system has a backdoor. I find it before the bad guys do.",
     "current_quest": "Landing my first role in Cybersecurity / IAM",
 }
 ```
@@ -50,7 +46,7 @@ Security Policies & GRC      ████████████████░
 OWASP / Threat Modelling     █████████████░░░░░  65%
 ```
 
-**Concepts I wield:**
+**Concepts I wield:**  
 `Zero Trust Architecture` · `OAuth 2.0 / OIDC` · `RBAC / ABAC` · `MFA` · `PAM`  
 `SIEM Basics` · `Penetration Testing Fundamentals` · `Incident Response`
 
@@ -82,25 +78,37 @@ OWASP / Threat Modelling     █████████████░░░░
 
 ---
 
+## 📊 The Wizard's Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TwsitedWizard&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d6fff&icon_color=6f00ff&text_color=d4b3ff&ring_color=6f00ff" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwsitedWizard&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d6fff&text_color=d4b3ff" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TwsitedWizard&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=6f00ff&ring=9d6fff&fire=ff6b6b&currStreakLabel=d4b3ff&sideLabels=d4b3ff&dates=888888" width="500"/>
+
+</div>
+
+---
+
 ## 📜 Spell Book · *Featured Projects*
 
 ### 🗓️ [Event Planner & Manager](https://github.com/TwsitedWizard/Event-Planner---Manager)
 > A full-featured event management system built in JavaScript.  
 > Because chaos needs structure — even in the wizarding world.
 
----
-
 ### 📊 [Data Structures & Algorithms Notebook](https://github.com/TwsitedWizard/Data-Structures)
 > A Jupyter Notebook compendium of DSA programs complete with **Posteriori Analysis Graphs**.  
 > Turning `O(n²)` nightmares into `O(log n)` dreams, one algorithm at a time.
 
----
-
 ### ⚡ [Next.js & MUI Sample](https://github.com/TwsitedWizard/Next.js-and-MUI-Sample)
 > Crafting clean, component-driven UIs with Next.js and Material UI.  
 > Because even dark wizards appreciate good design.
-
----
 
 ### 🚗 [Legendary Automotive](https://github.com/TwsitedWizard/Legendary-Automotive)
 > An HTML-based automotive showcase project.  
@@ -136,13 +144,20 @@ between the firewall and the edge.
 
 ---
 
+## 🐍 The Snake Consumes All Contributions
+
+<div align="center">
+
+![snake gif](https://github.com/TwsitedWizard/TwsitedWizard/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🔮 *"The right access, to the right user, at the right time — nothing more, nothing less."*
 
-![GitHub followers](https://img.shields.io/github/followers/TwsitedWizard?style=social)
-![GitHub stars](https://img.shields.io/github/stars/TwsitedWizard?style=social)
-
-*— TwsitedWizard is 🎯 Focusing —*
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6f00ff,50:4a0080,100:0d0d0d&height=120&section=footer&animation=fadeIn)
 
 </div>
